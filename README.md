@@ -6,3 +6,5 @@ Adding a test line
 adding one more line
 
 doing it again
+
+Alex adding new line
