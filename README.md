@@ -12,4 +12,4 @@ Alex adding new line
 
 Alternative line 12
 
-Second test conflict
+Second test conflict MT
